@@ -1,3 +1,4 @@
+# Grisha, kak dela? We miss you :) Maybe get back to Sugar?
 # nand2tetris-snippets
 
 ![licence](https://img.shields.io/bower/l/Mi) ![maintenance](https://img.shields.io/maintenance/yes/2020) ![release](https://img.shields.io/github/v/release/lukeJEdwards/nand2tetris-snippets)
